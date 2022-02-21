@@ -13,7 +13,7 @@ namespace Tic_Tac_ToeProject
         {
             for (int i = 1 ; i <9 ; i++)
             {
-                Board[i] = '1';
+                Board[i] = 'i';
             }
         }
     }
