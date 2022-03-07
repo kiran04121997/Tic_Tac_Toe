@@ -14,7 +14,7 @@ namespace Tic_Tac_ToeProject
         public void gameBoard()
         {
 
-            for (int i = 1; i < 9; i++)
+            for (int i = 1; i < Board.Length; i++)
             {
                 Board[i] = ' ';
             }
