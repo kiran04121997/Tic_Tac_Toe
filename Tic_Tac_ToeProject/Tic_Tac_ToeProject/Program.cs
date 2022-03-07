@@ -14,6 +14,8 @@ namespace Tic_Tac_ToeProject
             TicTacToeGame obj = new TicTacToeGame();
             obj.gameBoard();
             obj.abillityToInput();
+            obj.showGameBoard();
+
             Console.ReadLine();
         }
     }
